@@ -1,0 +1,72 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 97841064e27c442f3b45f0e2079b716c, type: 3}
+  m_Name: Grapes
+  m_EditorClassIdentifier: 
+  type: 8
+  particle: {fileID: 1978309707650864, guid: 0d5b2acf0cd20417c80c6715503f101f, type: 2}
+  animationData:
+    frames:
+    - {fileID: 21300000, guid: aa1b4b6dfcb524d21a4986e364e15022, type: 3}
+    - {fileID: 21300000, guid: 9f1819beaf71545dfb8a36a09e8ce9c2, type: 3}
+    - {fileID: 21300000, guid: 3444a882d55484622952ddd9ce5dece7, type: 3}
+    - {fileID: 21300000, guid: eea80b7994d214e4390ecd84aa8a56d4, type: 3}
+    - {fileID: 21300000, guid: 9a75320a60c40459288e46f1050bf374, type: 3}
+    - {fileID: 21300000, guid: 8c8fa174922ca40029776006a25577c2, type: 3}
+    - {fileID: 21300000, guid: 9510615d65f39453ea53135f75fd6446, type: 3}
+    - {fileID: 21300000, guid: 7e2775d3d6bd44989b6c63e795d0b33a, type: 3}
+    - {fileID: 21300000, guid: 565e6724135894b98893788e664c9627, type: 3}
+    - {fileID: 21300000, guid: 312b9a4aa7d0840cf829aaad0cd78797, type: 3}
+    - {fileID: 21300000, guid: d1e2d03c11e82410f8f0e9407dd79cad, type: 3}
+    - {fileID: 21300000, guid: 867dbe2f07e2a409598e6da1f6dfc229, type: 3}
+    - {fileID: 21300000, guid: 77d78be8abc0844bdb10519d85fc52e5, type: 3}
+    - {fileID: 21300000, guid: 1db9be7b5ee794d68887bb7224b12ee1, type: 3}
+    - {fileID: 21300000, guid: cce204f0ba3fd4f1b8ab6e542eb55318, type: 3}
+    - {fileID: 21300000, guid: 87cec3077cfc7468eb875eaa799da112, type: 3}
+    - {fileID: 21300000, guid: 597c1795e175b4355b222cf5ac7ea934, type: 3}
+    - {fileID: 21300000, guid: 4d3b00fe60fa3453dbcd9f7ad3dca089, type: 3}
+    - {fileID: 21300000, guid: 164e5bf0a0cbf4bdf8745a2096806229, type: 3}
+    - {fileID: 21300000, guid: 1df773da5532442f4aef58c965f4fe7b, type: 3}
+    - {fileID: 21300000, guid: 762de2adbfa8846ea8275d33bbe27a33, type: 3}
+    - {fileID: 21300000, guid: 276228d9efc9e41e3b5df6438eb14ab3, type: 3}
+    - {fileID: 21300000, guid: 19faafe1acf4943e885675e9f7052d37, type: 3}
+    - {fileID: 21300000, guid: 4671887ab60e5476c978cce03364b359, type: 3}
+    - {fileID: 21300000, guid: 42c23c273b32a4033bb5c39fcd2f2f10, type: 3}
+    - {fileID: 21300000, guid: 5ded635b1a29244e1adbd57832e7ee60, type: 3}
+    - {fileID: 21300000, guid: 5529416a37394495f87db463a281ea03, type: 3}
+    - {fileID: 21300000, guid: a5b3ae9f8b44a4139918b053c961da4e, type: 3}
+    - {fileID: 21300000, guid: 1c7e44736345c473695f48a836428aa0, type: 3}
+    - {fileID: 21300000, guid: cf4d1c891497b4fb3a0f5888612b9b78, type: 3}
+    - {fileID: 21300000, guid: 784cc1f97cce84c8a89d53b57fd98dfc, type: 3}
+    - {fileID: 21300000, guid: 6f45109bb9bb0471d9f79ce68ef586c6, type: 3}
+    - {fileID: 21300000, guid: c2825e8ee388546a1ac15de55e385010, type: 3}
+    - {fileID: 21300000, guid: 4bf80e4ea7bdd4516a651f77510bf640, type: 3}
+    - {fileID: 21300000, guid: 8aeb5b9e61ed34dc4a90f88ccfc4e475, type: 3}
+    - {fileID: 21300000, guid: 16bd9fc1db4af4abcb68f8784bc8cad8, type: 3}
+    - {fileID: 21300000, guid: dd24fe100c4484f37901dd271eae521b, type: 3}
+    - {fileID: 21300000, guid: 0368e4bfdff014e98b61e4dae08a5fb2, type: 3}
+    - {fileID: 21300000, guid: b4114c4f6f29f4f52aeaf08d80887b59, type: 3}
+    - {fileID: 21300000, guid: 14585ab97edea495e956de968ef10941, type: 3}
+    - {fileID: 21300000, guid: 0f6c59499dfbf4594b5dab2f26e25ca3, type: 3}
+    - {fileID: 21300000, guid: 6112cbda3373a4da38ebd9f0a40896ec, type: 3}
+    - {fileID: 21300000, guid: c4b4b06bbf78346599d07cb004758242, type: 3}
+    - {fileID: 21300000, guid: 8e31acb8d915f40918a05e2376c1a543, type: 3}
+    duration: 1
+    delay: 0
+  sprite: {fileID: 21300000, guid: aa1b4b6dfcb524d21a4986e364e15022, type: 3}
+  rule:
+    reward:
+    - 0
+    - 0
+    - 30
+    - 150
+    - 500
+    substitutesForWild: 1

@@ -1,0 +1,75 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 97841064e27c442f3b45f0e2079b716c, type: 3}
+  m_Name: Cow
+  m_EditorClassIdentifier: 
+  type: 12
+  particle: {fileID: 1978309707650864, guid: 366852ff4f0144fd1990126d21e0b77e, type: 2}
+  animationData:
+    frames:
+    - {fileID: 21300000, guid: 47e88c18678f1469784fc8a990af3462, type: 3}
+    - {fileID: 21300000, guid: 7fbab2d5f0a224253916f1fc2580f6ae, type: 3}
+    - {fileID: 21300000, guid: 563690a4c503e4d6c96d9ee51589a8d4, type: 3}
+    - {fileID: 21300000, guid: 0773b90bd7a7e40539c1c52bb6ca5d6d, type: 3}
+    - {fileID: 21300000, guid: 8a3e4a71be2964f8b9102faf9b0af753, type: 3}
+    - {fileID: 21300000, guid: c73f7dd0f63dc4132a4a91bb1c69c316, type: 3}
+    - {fileID: 21300000, guid: 347a1aa535a4a4494b1259251975422b, type: 3}
+    - {fileID: 21300000, guid: 69102677ced294a3abac71e7af69ea7f, type: 3}
+    - {fileID: 21300000, guid: 443d2b872e15441f1bfa9367177eb02f, type: 3}
+    - {fileID: 21300000, guid: aec4c919faa30408ebcab1a72d04de79, type: 3}
+    - {fileID: 21300000, guid: 5712c16cd113b4553aef3351e68859b8, type: 3}
+    - {fileID: 21300000, guid: 3105de1e5cf764521b715246e934bfc6, type: 3}
+    - {fileID: 21300000, guid: c0c2066316f4542968c50002b5d3073e, type: 3}
+    - {fileID: 21300000, guid: 69c4a75db985f4defa800b425adfc88e, type: 3}
+    - {fileID: 21300000, guid: ccada93eecf874d73976a83d66e0d15d, type: 3}
+    - {fileID: 21300000, guid: a78b2457f21d64bd9a57c82396825595, type: 3}
+    - {fileID: 21300000, guid: c7388c5bf4c004bc892c9041a4f1a815, type: 3}
+    - {fileID: 21300000, guid: 5a00987935b6f41b0a0345adabc98e78, type: 3}
+    - {fileID: 21300000, guid: 28a3390c619ef447f979f8c9ff93dc24, type: 3}
+    - {fileID: 21300000, guid: 4a824f60274d04815ab89e626cf1da13, type: 3}
+    - {fileID: 21300000, guid: 2152e9461009e409aab46fcdce35f025, type: 3}
+    - {fileID: 21300000, guid: a125ce4cb39ab4f4aa3710e2a3f26105, type: 3}
+    - {fileID: 21300000, guid: b4b47216c94ec414797827dc56af8b30, type: 3}
+    - {fileID: 21300000, guid: 3e84efd84b5394b53a204b12d70687a4, type: 3}
+    - {fileID: 21300000, guid: c4d0d4a50b49a4d83aa10faa02642634, type: 3}
+    - {fileID: 21300000, guid: 059286893bc614aee8fb7a4cf6fed212, type: 3}
+    - {fileID: 21300000, guid: 4c695a8dac2004237b9af0ff2513d76d, type: 3}
+    - {fileID: 21300000, guid: 5a9aff7f9947a4f55ba0c8ecd023509d, type: 3}
+    - {fileID: 21300000, guid: 923c867fe925d4a94989b40a5317abff, type: 3}
+    - {fileID: 21300000, guid: 303392bac1b6342d7ad9ea268b6255ab, type: 3}
+    - {fileID: 21300000, guid: 4875e4bf75dfb4d949357c92b197869c, type: 3}
+    - {fileID: 21300000, guid: d895b181e12144fb4a1fd2d0265856bc, type: 3}
+    - {fileID: 21300000, guid: 537ab1ade781b4d5fb0c23c0bc92155c, type: 3}
+    - {fileID: 21300000, guid: 3d68b717e65584760af9a8647f21493d, type: 3}
+    - {fileID: 21300000, guid: ea8defc3dff6a44ffbe1b0d7dd703b5b, type: 3}
+    - {fileID: 21300000, guid: 9554b285a4581474d8728786e307cc99, type: 3}
+    - {fileID: 21300000, guid: 1113175a037144e7e8830aad551a584a, type: 3}
+    - {fileID: 21300000, guid: ecd68a8c995944f208d82cd0ba57d59b, type: 3}
+    - {fileID: 21300000, guid: d5edacba133994891abbd340465070b9, type: 3}
+    - {fileID: 21300000, guid: 9c4061e2f39184a4aa164a84fb4bd101, type: 3}
+    - {fileID: 21300000, guid: bed12982b44854dac83ccd847b141a05, type: 3}
+    - {fileID: 21300000, guid: ac270ba219dce4b32a7c6ec19642512c, type: 3}
+    - {fileID: 21300000, guid: 0a771cdc752b2420cb143a4cea555190, type: 3}
+    - {fileID: 21300000, guid: 3d9dadf1ec0fd445a81fa8a83aba4b67, type: 3}
+    - {fileID: 21300000, guid: 8432fde37770a4dde99862bb7cf66288, type: 3}
+    - {fileID: 21300000, guid: 738b71907126740f9a43f468dff9d4bd, type: 3}
+    - {fileID: 21300000, guid: 25df76415b822409aac8391cad645ea9, type: 3}
+    duration: 1
+    delay: 0
+  sprite: {fileID: 21300000, guid: 7aa640ace975a4887be3b4fe3c381a8d, type: 3}
+  rule:
+    reward:
+    - 0
+    - 12
+    - 50
+    - 350
+    - 2500
+    substitutesForWild: 1

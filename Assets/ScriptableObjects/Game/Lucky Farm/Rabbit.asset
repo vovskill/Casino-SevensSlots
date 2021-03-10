@@ -1,0 +1,76 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 97841064e27c442f3b45f0e2079b716c, type: 3}
+  m_Name: Rabbit
+  m_EditorClassIdentifier: 
+  type: 10
+  particle: {fileID: 1978309707650864, guid: 366852ff4f0144fd1990126d21e0b77e, type: 2}
+  animationData:
+    frames:
+    - {fileID: 21300000, guid: 171e56d4f3c094fc29599589e7daabad, type: 3}
+    - {fileID: 21300000, guid: 22f10f33aacf04e2b9fc90ba16f63ec5, type: 3}
+    - {fileID: 21300000, guid: 42d6ce432cedb470794d7b08d804fa1c, type: 3}
+    - {fileID: 21300000, guid: 3c07db9d80d9244b08de7e0ae21a9ef6, type: 3}
+    - {fileID: 21300000, guid: 20a96da450b0c469481229f43c9538f1, type: 3}
+    - {fileID: 21300000, guid: de29e45a2583d40c0b3d0650a552bd2e, type: 3}
+    - {fileID: 21300000, guid: 0fd1b59b374a242609c41872ef7ac861, type: 3}
+    - {fileID: 21300000, guid: aa7235f538cb347b7923c6d02f828a31, type: 3}
+    - {fileID: 21300000, guid: 78dcde2fceaa64146be8378d861dfb00, type: 3}
+    - {fileID: 21300000, guid: 7cb8debcfba5e4f7097f1a5cd5f84329, type: 3}
+    - {fileID: 21300000, guid: 887316fe35080489289d0ae14dab1d3d, type: 3}
+    - {fileID: 21300000, guid: ac2e2f3d53daa474ea1f7f8aa2f47953, type: 3}
+    - {fileID: 21300000, guid: f320867b2db674c2e926950aaff89cb1, type: 3}
+    - {fileID: 21300000, guid: 9f654577b016b4c378824fa86bb55f53, type: 3}
+    - {fileID: 21300000, guid: d752c6ffd8f514d1eab7a51e557c15e1, type: 3}
+    - {fileID: 21300000, guid: 8262a530cac554639ba489d7d6add335, type: 3}
+    - {fileID: 21300000, guid: 9551926c56cc14a3ab6acea444c5dca0, type: 3}
+    - {fileID: 21300000, guid: 8bb46b8fa8d444c3cbf56ca5cf7c175c, type: 3}
+    - {fileID: 21300000, guid: f4565812f208f4b7ea9e584a53197eeb, type: 3}
+    - {fileID: 21300000, guid: 3a1204cc933754e39b1bd59b2f918918, type: 3}
+    - {fileID: 21300000, guid: 5fa38190a10534c969ef658d784bb17a, type: 3}
+    - {fileID: 21300000, guid: 12183ab0008c84fad826dc93b3896d20, type: 3}
+    - {fileID: 21300000, guid: ed41a2e3ef9154e1788e53c682638994, type: 3}
+    - {fileID: 21300000, guid: 4e9095e8770f04562b46dd8f32eda69b, type: 3}
+    - {fileID: 21300000, guid: 1885e6fff5c77420ca221868e6b19476, type: 3}
+    - {fileID: 21300000, guid: c05f79a7440cd4db2a428406294caea4, type: 3}
+    - {fileID: 21300000, guid: 18252698807be4d6dabefa52eb7a6199, type: 3}
+    - {fileID: 21300000, guid: 08e1139a0a7f247f797e745888d7b0f7, type: 3}
+    - {fileID: 21300000, guid: fe4418f905cde4e0094c2760ae2b00dd, type: 3}
+    - {fileID: 21300000, guid: 34956d4c9889440f89165b8722d300f3, type: 3}
+    - {fileID: 21300000, guid: 22ee828d6ef614f5195579878fc58605, type: 3}
+    - {fileID: 21300000, guid: 62992dad1daaa4146a19bcd6dc0ac333, type: 3}
+    - {fileID: 21300000, guid: 35bc75361fa6845e68b3fbb65ba08bfc, type: 3}
+    - {fileID: 21300000, guid: e2f4e5e67c68e43c3b9ef31057d39a83, type: 3}
+    - {fileID: 21300000, guid: f566e78fbbb7c4e3582a3150dab120b7, type: 3}
+    - {fileID: 21300000, guid: 924c5df14499d49a9b7e2fc1a0152a8a, type: 3}
+    - {fileID: 21300000, guid: 336d4e04b5c6d4c008fcc2c558a59939, type: 3}
+    - {fileID: 21300000, guid: 70c25fdfe603441779154b42005b6257, type: 3}
+    - {fileID: 21300000, guid: 5cd9d65f0ca5c4c24aded2384f51d56d, type: 3}
+    - {fileID: 21300000, guid: 7cda1d1c754dd48f4a7c5deccf0c05f1, type: 3}
+    - {fileID: 21300000, guid: 886beaaa131414a0ca4df1956d28369a, type: 3}
+    - {fileID: 21300000, guid: 2a130d92a283c404e94ccbe67f6c7047, type: 3}
+    - {fileID: 21300000, guid: 5af114e5990a54eccbb1a746ac17a724, type: 3}
+    - {fileID: 21300000, guid: eef365645a96144a8a62bc1e83a9bb39, type: 3}
+    - {fileID: 21300000, guid: 1a2586bea58e3474f8a982760b0a0746, type: 3}
+    - {fileID: 21300000, guid: 448b7e3589caf47cd98c9b7be073820a, type: 3}
+    - {fileID: 21300000, guid: a0bc4600204204cd9804bac6a4a77a0f, type: 3}
+    - {fileID: 21300000, guid: 653b1f41cd2274f8db80305bee8f605e, type: 3}
+    duration: 1
+    delay: 0
+  sprite: {fileID: 21300000, guid: 2b9007f85e45c406285e74c887b7836f, type: 3}
+  rule:
+    reward:
+    - 0
+    - 0
+    - 20
+    - 200
+    - 1000
+    substitutesForWild: 1

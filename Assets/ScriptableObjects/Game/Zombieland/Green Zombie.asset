@@ -1,0 +1,58 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 97841064e27c442f3b45f0e2079b716c, type: 3}
+  m_Name: Green Zombie
+  m_EditorClassIdentifier: 
+  type: 10
+  particle: {fileID: 1517011525396110, guid: 35940221869104f7cbce5d6a7ef53209, type: 2}
+  animationData:
+    frames:
+    - {fileID: 21300000, guid: 0feb7ee98363c425bab133b26b30c8fc, type: 3}
+    - {fileID: 21300000, guid: 55fd246e664074c7db82c3d6991d1c3b, type: 3}
+    - {fileID: 21300000, guid: 86252f03321764ed4b2962dc014fb559, type: 3}
+    - {fileID: 21300000, guid: 38a5eceade2c54d63aa22b7cbb4e5386, type: 3}
+    - {fileID: 21300000, guid: bfdb3ad31acea42a2a312b24f7613d12, type: 3}
+    - {fileID: 21300000, guid: 72d1cb54ccff44e3caadf55f72dafe9d, type: 3}
+    - {fileID: 21300000, guid: 7beac8eedc3494a039bbc03e7c7ea20f, type: 3}
+    - {fileID: 21300000, guid: 762f30b31e25a45c98151e0a21c0337b, type: 3}
+    - {fileID: 21300000, guid: 195395ad3cfd6481fa5177a836f29d8d, type: 3}
+    - {fileID: 21300000, guid: 8144c4decf9084175b71a97fef18570e, type: 3}
+    - {fileID: 21300000, guid: 51f37771f6a5440628313c294dd13628, type: 3}
+    - {fileID: 21300000, guid: 812b499006c6c41119fdb52293c8e677, type: 3}
+    - {fileID: 21300000, guid: bb9407bb274e8445b91213f45faaea85, type: 3}
+    - {fileID: 21300000, guid: df2d4e4adab9940048083148e4241af8, type: 3}
+    - {fileID: 21300000, guid: dcf27b417d2f6483f8ee725459591799, type: 3}
+    - {fileID: 21300000, guid: 3694a6d0de1be48808501dd5a4566266, type: 3}
+    - {fileID: 21300000, guid: 163ede8448c1a4d59a2ef3658477b853, type: 3}
+    - {fileID: 21300000, guid: 04e32352d1b10461bad836ba556e9c24, type: 3}
+    - {fileID: 21300000, guid: bbf803dad3eb847a4892fc788e46d861, type: 3}
+    - {fileID: 21300000, guid: 0c174da749bb9492493f45cb707f222a, type: 3}
+    - {fileID: 21300000, guid: 35d1ecefa96e24501ac38bb087036b1c, type: 3}
+    - {fileID: 21300000, guid: f751bbd2acbc14326918855fa7b04dea, type: 3}
+    - {fileID: 21300000, guid: e78955bd0d6464d2da48f484999736aa, type: 3}
+    - {fileID: 21300000, guid: f0e7a1a64b6f14146b18d8cc2d37ff9f, type: 3}
+    - {fileID: 21300000, guid: cae46a3cf4558409482bb7f234f5266c, type: 3}
+    - {fileID: 21300000, guid: 93d615519d6fc4a849ce06cab5618bf8, type: 3}
+    - {fileID: 21300000, guid: eb7e55848695e43778ea3ca112761eee, type: 3}
+    - {fileID: 21300000, guid: 26fd1612438de4317910f2c94858c6be, type: 3}
+    - {fileID: 21300000, guid: 04d02db38ce714db983a23ad99e5121f, type: 3}
+    - {fileID: 21300000, guid: 538dd72b0925c49bd88e76eb79c350d2, type: 3}
+    duration: 1
+    delay: 0
+  sprite: {fileID: 21300000, guid: 64f9791327bd04d7ab2e638d9b87f5e3, type: 3}
+  rule:
+    reward:
+    - 0
+    - 20
+    - 50
+    - 100
+    - 150
+    substitutesForWild: 1

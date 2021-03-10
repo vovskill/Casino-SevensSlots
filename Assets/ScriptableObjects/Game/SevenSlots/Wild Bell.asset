@@ -1,0 +1,72 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 97841064e27c442f3b45f0e2079b716c, type: 3}
+  m_Name: Wild Bell
+  m_EditorClassIdentifier: 
+  type: 1
+  particle: {fileID: 1978309707650864, guid: 0d5b2acf0cd20417c80c6715503f101f, type: 2}
+  animationData:
+    frames:
+    - {fileID: 21300000, guid: 16bd7c4c2037c4736bee5099d7697c0a, type: 3}
+    - {fileID: 21300000, guid: 09e178c4d26d141ae9d83921250c0ca9, type: 3}
+    - {fileID: 21300000, guid: 204880a408cbb42e385c3cd5684f4199, type: 3}
+    - {fileID: 21300000, guid: a144feb23cc0d4e52ab0cd9d36e571cb, type: 3}
+    - {fileID: 21300000, guid: 34a92b460080d4a9aae5892ce645a9b5, type: 3}
+    - {fileID: 21300000, guid: fb14b8c1f65334a0598421334257401b, type: 3}
+    - {fileID: 21300000, guid: 689c7cf285d7f4e5bba785ce79869e38, type: 3}
+    - {fileID: 21300000, guid: 89db29f1bb522426f8acb1d6cb97db0b, type: 3}
+    - {fileID: 21300000, guid: 7fd020946aea24a0da03b15f677d9766, type: 3}
+    - {fileID: 21300000, guid: 6d8b8c768408049008f5abd2999446c0, type: 3}
+    - {fileID: 21300000, guid: 27752cc6860e04fca814b31597750c50, type: 3}
+    - {fileID: 21300000, guid: 2a719aba1e95e4bb08ca54e014ea203a, type: 3}
+    - {fileID: 21300000, guid: d511caf1bde494247b47c9f163f31cfc, type: 3}
+    - {fileID: 21300000, guid: 82f61422b75d74b6694c3c73b22d850f, type: 3}
+    - {fileID: 21300000, guid: 278e186fd9b8444e0b235666497b4b09, type: 3}
+    - {fileID: 21300000, guid: dc7960032e6be4062929b2f795ef2e0c, type: 3}
+    - {fileID: 21300000, guid: 479d005b439c64061aa5d62e02d1c2f7, type: 3}
+    - {fileID: 21300000, guid: 598190be1742e424faefc436504f2034, type: 3}
+    - {fileID: 21300000, guid: 0165dd9dd2fa4428a9b6e9c5373cba1c, type: 3}
+    - {fileID: 21300000, guid: a209f8e5b6ad04c208b6c102787226a7, type: 3}
+    - {fileID: 21300000, guid: f31909f5610d04c83bf6e45138755dda, type: 3}
+    - {fileID: 21300000, guid: 424e572dc25f8476e99c3188bd51fceb, type: 3}
+    - {fileID: 21300000, guid: 7295c7236e0664ad1b10d30a6bf00b2b, type: 3}
+    - {fileID: 21300000, guid: f4f539ab0406547d19bb0dab1c3b064c, type: 3}
+    - {fileID: 21300000, guid: f5e7a3585011b4be0bac58c99c703838, type: 3}
+    - {fileID: 21300000, guid: e67e6c395c5414e75875585474110cf0, type: 3}
+    - {fileID: 21300000, guid: 3c0eee93403f94e48875f294165d3398, type: 3}
+    - {fileID: 21300000, guid: 7fdbf5b7acc554859aa3eaf428d807cd, type: 3}
+    - {fileID: 21300000, guid: 4e6eceee2565a4061a8c9572804fb7a0, type: 3}
+    - {fileID: 21300000, guid: 761ab095d7e3a4a9ba4b0f8a4b161a95, type: 3}
+    - {fileID: 21300000, guid: cd62c6202be944c249a80f7b8967608a, type: 3}
+    - {fileID: 21300000, guid: 5d7e60034d9f145b8ab9922509841995, type: 3}
+    - {fileID: 21300000, guid: c352a0d47ac8d482b8cd4101c600c04c, type: 3}
+    - {fileID: 21300000, guid: 1f354328ebbe84add913299ab5a9b0fd, type: 3}
+    - {fileID: 21300000, guid: 343d0e24f79424caebe7c163dd439775, type: 3}
+    - {fileID: 21300000, guid: 1247a4382468e4320a837346c6fe9622, type: 3}
+    - {fileID: 21300000, guid: a6e5f5a5f6f554139b79c580bec884d4, type: 3}
+    - {fileID: 21300000, guid: 8ee9cd5a9616b44a8851873840364712, type: 3}
+    - {fileID: 21300000, guid: 2613e82b63489419f8509542dd1a2efb, type: 3}
+    - {fileID: 21300000, guid: f86a9ebe19e884f09a1902ac4ae916f4, type: 3}
+    - {fileID: 21300000, guid: 4af09c6a08fd24633a89ac60759f1c0e, type: 3}
+    - {fileID: 21300000, guid: 995a297f920964cb59bdbf720882c494, type: 3}
+    - {fileID: 21300000, guid: d2bb38c5229a2401da613ca20d58c9b8, type: 3}
+    - {fileID: 21300000, guid: a8765bbe238734a6aacad8f61b72eded, type: 3}
+    duration: 1
+    delay: 0
+  sprite: {fileID: 21300000, guid: 16bd7c4c2037c4736bee5099d7697c0a, type: 3}
+  rule:
+    reward:
+    - 0
+    - 20
+    - 200
+    - 1000
+    - 5000
+    substitutesForWild: 1

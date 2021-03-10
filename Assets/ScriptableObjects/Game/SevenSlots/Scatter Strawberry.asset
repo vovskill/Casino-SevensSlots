@@ -1,0 +1,72 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 97841064e27c442f3b45f0e2079b716c, type: 3}
+  m_Name: Scatter Strawberry
+  m_EditorClassIdentifier: 
+  type: 2
+  particle: {fileID: 1978309707650864, guid: 0d5b2acf0cd20417c80c6715503f101f, type: 2}
+  animationData:
+    frames:
+    - {fileID: 21300000, guid: 51f7919a56bbb4dce9dfd6edd4b14b16, type: 3}
+    - {fileID: 21300000, guid: 81547f4674b554b9ca2d5881f0a0759b, type: 3}
+    - {fileID: 21300000, guid: aa81abc72048f4095a16bf30b81e2dbe, type: 3}
+    - {fileID: 21300000, guid: 3de598f0a9062490fb9e84a6045ee19f, type: 3}
+    - {fileID: 21300000, guid: 04c77b78967774ac2bce7796e6219ba5, type: 3}
+    - {fileID: 21300000, guid: 51e38e36da3fc495bb71964f158608f3, type: 3}
+    - {fileID: 21300000, guid: 35a966e85d9db4a04bd3f3bfeee3a2bf, type: 3}
+    - {fileID: 21300000, guid: f7c4f86ac796c453ca150189d51b2664, type: 3}
+    - {fileID: 21300000, guid: 4126d78db5cc44a9486f693c79e0c0fa, type: 3}
+    - {fileID: 21300000, guid: 27ba0791b02f9471aa38a2deab5d0e94, type: 3}
+    - {fileID: 21300000, guid: da7878ac640e242a0b3600fa4aadc432, type: 3}
+    - {fileID: 21300000, guid: 61f5cc72b4e7f416eb82b47cf36bebd9, type: 3}
+    - {fileID: 21300000, guid: 04dbfd2c46b7e495aba5909abf843777, type: 3}
+    - {fileID: 21300000, guid: 8aaf4356e437a4b26acd0b0dfac3bfe7, type: 3}
+    - {fileID: 21300000, guid: a17010117a2d24b7da9fbde23aac2ac3, type: 3}
+    - {fileID: 21300000, guid: fcd74401411ec40bcb477bf1c6d7fe0d, type: 3}
+    - {fileID: 21300000, guid: bb97c55214528443a8b6e9e9537a7683, type: 3}
+    - {fileID: 21300000, guid: e37bf0c47e06f4a9ab2683caa224c02e, type: 3}
+    - {fileID: 21300000, guid: e4ef62b95f0f6496891356c5fd3d7055, type: 3}
+    - {fileID: 21300000, guid: 783063616e09a4a20ad18c29eefa72cc, type: 3}
+    - {fileID: 21300000, guid: 0b5208404bd7249f3ab695ed6f83f471, type: 3}
+    - {fileID: 21300000, guid: 7d980c98733604393b0c02cdf019188a, type: 3}
+    - {fileID: 21300000, guid: 805955c2780e740f78bc5c3d9fffd866, type: 3}
+    - {fileID: 21300000, guid: 3160b0153fd0941e48fe3f137f50a5e6, type: 3}
+    - {fileID: 21300000, guid: e6e74f65b4ca44b8280ded6156142d40, type: 3}
+    - {fileID: 21300000, guid: d8670e2149ba1439b86d83c1b50a7d42, type: 3}
+    - {fileID: 21300000, guid: 50b32042c7f484f0bb0d9a24c4b2be44, type: 3}
+    - {fileID: 21300000, guid: 0e854d95f2b4844d79b3b6e16151cba9, type: 3}
+    - {fileID: 21300000, guid: dcdb41e9dfa36452e9ad3d970ef23094, type: 3}
+    - {fileID: 21300000, guid: 8339403339b5d4c04ae1b38e9c6904f7, type: 3}
+    - {fileID: 21300000, guid: 8ae1db1abfc884db69e7892341bf0005, type: 3}
+    - {fileID: 21300000, guid: 880b75a2fb31b40a48fe0d4774a4d8b5, type: 3}
+    - {fileID: 21300000, guid: 8a8a19e1e46d14c4a8fb3de827046074, type: 3}
+    - {fileID: 21300000, guid: 9fda5967429554ec2a56c979582ca60f, type: 3}
+    - {fileID: 21300000, guid: 8c3311fdb5ee1453e99d745191735887, type: 3}
+    - {fileID: 21300000, guid: 6a9c7acc3ed3e48a090737983578c1ce, type: 3}
+    - {fileID: 21300000, guid: c7e264b80e74e4c78b449b71732a0cab, type: 3}
+    - {fileID: 21300000, guid: 2c77291f82ead4bf3892c56a6d7b3052, type: 3}
+    - {fileID: 21300000, guid: ad0c4114d30fc45b3900b69bfaa63a36, type: 3}
+    - {fileID: 21300000, guid: 1692683fa797243a994171dd56a5a5ad, type: 3}
+    - {fileID: 21300000, guid: efdae09269dcc431a9345ad017cea086, type: 3}
+    - {fileID: 21300000, guid: 39db193f8234d45a5a3184acca86a2c1, type: 3}
+    - {fileID: 21300000, guid: b47e40bd3fbeb4312a4473d3b3ef321b, type: 3}
+    - {fileID: 21300000, guid: 4e21f051624e24f43920efc1f98635b1, type: 3}
+    duration: 1
+    delay: 0
+  sprite: {fileID: 21300000, guid: 51f7919a56bbb4dce9dfd6edd4b14b16, type: 3}
+  rule:
+    reward:
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    substitutesForWild: 0

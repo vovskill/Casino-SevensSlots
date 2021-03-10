@@ -1,0 +1,56 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 97841064e27c442f3b45f0e2079b716c, type: 3}
+  m_Name: Eggplant
+  m_EditorClassIdentifier: 
+  type: 6
+  particle: {fileID: 1978309707650864, guid: 366852ff4f0144fd1990126d21e0b77e, type: 2}
+  animationData:
+    frames:
+    - {fileID: 21300000, guid: 13a1fc892dff64550a5b193df7f43c4b, type: 3}
+    - {fileID: 21300000, guid: c0f12c8c83dc542219070c9bcb03ee74, type: 3}
+    - {fileID: 21300000, guid: 944405e113ec542c2bb312aa8a18de0d, type: 3}
+    - {fileID: 21300000, guid: 7b0c57e8684d7498c864bf635cb40ec1, type: 3}
+    - {fileID: 21300000, guid: 3d0c0134233a24535acc2bb9f0a672da, type: 3}
+    - {fileID: 21300000, guid: ad3e099d5d6e845778d3c341166136d2, type: 3}
+    - {fileID: 21300000, guid: c3886cac64c8d45498caa38ee27f478f, type: 3}
+    - {fileID: 21300000, guid: 465b8c42e937745f588e1ee276c71230, type: 3}
+    - {fileID: 21300000, guid: 7424ef625b78e4de4b04a384bf0acfc2, type: 3}
+    - {fileID: 21300000, guid: 0daff23bd4eca4fada6c69f6668a78e9, type: 3}
+    - {fileID: 21300000, guid: 4b07961603dcd4f32917f99babc11c52, type: 3}
+    - {fileID: 21300000, guid: b91ab11865fef4863ba156fe0bbd0077, type: 3}
+    - {fileID: 21300000, guid: 2a83f6b6bd4814217953e45d83ce6c8d, type: 3}
+    - {fileID: 21300000, guid: 62df64546516944c09970f0f73a94af8, type: 3}
+    - {fileID: 21300000, guid: 010abf933a4cf45b6b622d85c7199bd5, type: 3}
+    - {fileID: 21300000, guid: b84ee37ff98b84256b2bf1dd125214d3, type: 3}
+    - {fileID: 21300000, guid: 1e484da16bb2945ee9e0996a76f49102, type: 3}
+    - {fileID: 21300000, guid: 6e45908663e4849fa959ac2c8bbce130, type: 3}
+    - {fileID: 21300000, guid: 86649899d71e54a529c078302f1d968a, type: 3}
+    - {fileID: 21300000, guid: e605942c8b82a4305a02f4a7e8ae546e, type: 3}
+    - {fileID: 21300000, guid: 0907bf029c4ee4cb69713482893a8636, type: 3}
+    - {fileID: 21300000, guid: cbba33b5ea08448fba97187c938f3e9a, type: 3}
+    - {fileID: 21300000, guid: e20d184a83a1042eda04ecadd3ae5edc, type: 3}
+    - {fileID: 21300000, guid: 2111b919db85f431ea686ca0985698f2, type: 3}
+    - {fileID: 21300000, guid: fd4da4720e10a45458e8bc61120c3eba, type: 3}
+    - {fileID: 21300000, guid: 60563750e023b4f1f988d2b46e32fc34, type: 3}
+    - {fileID: 21300000, guid: 4c1729f91eb9d45c7b922d3370e82e1b, type: 3}
+    - {fileID: 21300000, guid: b0cda1f7922524769859449019201eab, type: 3}
+    duration: 1
+    delay: 0
+  sprite: {fileID: 21300000, guid: bfad6177079f344bfb43410336b36ada, type: 3}
+  rule:
+    reward:
+    - 0
+    - 0
+    - 12
+    - 75
+    - 125
+    substitutesForWild: 1

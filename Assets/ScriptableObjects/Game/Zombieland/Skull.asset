@@ -1,0 +1,63 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 97841064e27c442f3b45f0e2079b716c, type: 3}
+  m_Name: Skull
+  m_EditorClassIdentifier: 
+  type: 9
+  particle: {fileID: 1517011525396110, guid: 35940221869104f7cbce5d6a7ef53209, type: 2}
+  animationData:
+    frames:
+    - {fileID: 21300000, guid: b36e0ef02fb6c4a87b79c55edec7b5e4, type: 3}
+    - {fileID: 21300000, guid: a4bb610ca48c446e484544442bbb697d, type: 3}
+    - {fileID: 21300000, guid: 6cff0c914d3a64742b99a71a5c572478, type: 3}
+    - {fileID: 21300000, guid: 3c1ace2bd128b4231af3d41d0524cb49, type: 3}
+    - {fileID: 21300000, guid: 5c935cadc177f495f8b422d1f9c25d49, type: 3}
+    - {fileID: 21300000, guid: abcd6215990bd4af189f09772489ca1e, type: 3}
+    - {fileID: 21300000, guid: c1ff77bb1be9b438d8a8488a9b088962, type: 3}
+    - {fileID: 21300000, guid: c2bf80bdab4764bc1b2afd6b980d6d97, type: 3}
+    - {fileID: 21300000, guid: 12efc77535f044f32bfc083019a56fa3, type: 3}
+    - {fileID: 21300000, guid: 40d045d7cbc3643769350f67f96f159a, type: 3}
+    - {fileID: 21300000, guid: 9c41928e5247d44dbb374d3365df7400, type: 3}
+    - {fileID: 21300000, guid: f4a81776531f04af9b8453755515a504, type: 3}
+    - {fileID: 21300000, guid: 83903636e68d7472fa3a52c40d8b87df, type: 3}
+    - {fileID: 21300000, guid: b9360c419aaed43b4b07894df9bec7ea, type: 3}
+    - {fileID: 21300000, guid: dccd3bb6a25ed4e5a8ca86f39ba6189c, type: 3}
+    - {fileID: 21300000, guid: 7fde36b4ebfbb4cd5a9272838d8c225a, type: 3}
+    - {fileID: 21300000, guid: 4181b9dd19e80414094b4d554c0e8b5e, type: 3}
+    - {fileID: 21300000, guid: 17c44fb50c8af499286e4ef137d6782f, type: 3}
+    - {fileID: 21300000, guid: bfe50523299fd414588e9ffa4740337b, type: 3}
+    - {fileID: 21300000, guid: e1c805d862e55427d8a5c02fa83e8ff4, type: 3}
+    - {fileID: 21300000, guid: 154bf732ef6d04c37a48a29f1ea306fd, type: 3}
+    - {fileID: 21300000, guid: 3293af024906444d5b60caecf7026807, type: 3}
+    - {fileID: 21300000, guid: 33bd31d45ed5f4e4ab41fb6c5b09a937, type: 3}
+    - {fileID: 21300000, guid: 70415e5ddb2474bc290d0ef0f6a38e6c, type: 3}
+    - {fileID: 21300000, guid: 3aa362e3e7f5242cfa56f064cecf7f1a, type: 3}
+    - {fileID: 21300000, guid: 6f0b080dbe9f441ff90da59763364ccf, type: 3}
+    - {fileID: 21300000, guid: 9b8513f3d176f4e689ebff8ed44c625a, type: 3}
+    - {fileID: 21300000, guid: 2c4bbe716a67d47ac81cc2a9b210c419, type: 3}
+    - {fileID: 21300000, guid: ba5b143a4c9d04556b6354b95f588fb6, type: 3}
+    - {fileID: 21300000, guid: 9d62442658bc348338d40620b5e32172, type: 3}
+    - {fileID: 21300000, guid: 5a9dffeae4ac4440fa0dbc0bae649dcc, type: 3}
+    - {fileID: 21300000, guid: b92357f71545543c09155510a8647d21, type: 3}
+    - {fileID: 21300000, guid: 51e6f68b9149e461a9640920605cd83a, type: 3}
+    - {fileID: 21300000, guid: 901c7070da7204423b6f077e50e3e482, type: 3}
+    - {fileID: 21300000, guid: f9ff87322221947de9ad764e8ca078dc, type: 3}
+    duration: 1
+    delay: 0
+  sprite: {fileID: 21300000, guid: 43e888738f977430b9f6126daa2e46ef, type: 3}
+  rule:
+    reward:
+    - 0
+    - 0
+    - 50
+    - 100
+    - 150
+    substitutesForWild: 1

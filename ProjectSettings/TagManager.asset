@@ -1,0 +1,59 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - GambleButton
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - MenuPanel
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Back Layer
+    uniqueID: 3183201017
+    locked: 0
+  - name: Particles Middle
+    uniqueID: 571926211
+    locked: 0
+  - name: Front Layer
+    uniqueID: 3709777395
+    locked: 0
+  - name: Particle Front
+    uniqueID: 3739193195
+    locked: 0
+  - name: Top
+    uniqueID: 176941079
+    locked: 0

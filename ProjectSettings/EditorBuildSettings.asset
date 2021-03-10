@@ -1,0 +1,29 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/GameLobby.unity
+    guid: c6307dc85422740cfb34abcccc1b61e7
+  - enabled: 1
+    path: Assets/Scenes/LuckyFarm.unity
+    guid: 177900b17cb47481bbe0620fa101c9b1
+  - enabled: 1
+    path: Assets/Scenes/LuckyFarmLoading.unity
+    guid: e9b319c76ae1e416b8aa5027b4799f32
+  - enabled: 1
+    path: Assets/Scenes/Zombieland.unity
+    guid: 7762382b5f5ed467d844a1f9ec2d3d28
+  - enabled: 1
+    path: Assets/Scenes/ZombielandLoading.unity
+    guid: 242b4ca758dc64ed7a181b30239766e9
+  - enabled: 1
+    path: Assets/Scenes/SevenSlots.unity
+    guid: ad2f409a410a54b3e9be543541227c89
+  - enabled: 1
+    path: Assets/Scenes/SevenSlotsLoading.unity
+    guid: e6d6544083180406f84a226f17764a08
+  m_configObjects: {}

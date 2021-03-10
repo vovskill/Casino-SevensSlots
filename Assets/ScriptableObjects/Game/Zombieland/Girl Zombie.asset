@@ -1,0 +1,63 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 97841064e27c442f3b45f0e2079b716c, type: 3}
+  m_Name: Girl Zombie
+  m_EditorClassIdentifier: 
+  type: 12
+  particle: {fileID: 1517011525396110, guid: 35940221869104f7cbce5d6a7ef53209, type: 2}
+  animationData:
+    frames:
+    - {fileID: 21300000, guid: a1db225d0c92c4c0c8cc774c9a8370d4, type: 3}
+    - {fileID: 21300000, guid: 072ae946b1e364ed3a5fa1a6320278fb, type: 3}
+    - {fileID: 21300000, guid: 98a655b2648094bc6bf3c756319c4da2, type: 3}
+    - {fileID: 21300000, guid: ea88d7de89c40488583209930ea229b0, type: 3}
+    - {fileID: 21300000, guid: 7a9a7bf25dcea4aea9873ee473aa1624, type: 3}
+    - {fileID: 21300000, guid: 6bea0ec882af2448e94a2c6195eaf640, type: 3}
+    - {fileID: 21300000, guid: 1df7e9acf03da482abf7834bea0259f4, type: 3}
+    - {fileID: 21300000, guid: d8773775679e74002817d27e6c3395fc, type: 3}
+    - {fileID: 21300000, guid: 2f326a26ac4b84f2bb8e8d8d9ea6492a, type: 3}
+    - {fileID: 21300000, guid: d212920f519794e5c9d4ff22305a31e0, type: 3}
+    - {fileID: 21300000, guid: a6ee971035d31411da4c46e2bd1dfe36, type: 3}
+    - {fileID: 21300000, guid: e7a95135ea3204358b9ba56a1a9dadc8, type: 3}
+    - {fileID: 21300000, guid: aaeef5a9ae5d84140844838e8f1a253b, type: 3}
+    - {fileID: 21300000, guid: 31944429387ba498bb511e8b4435d76e, type: 3}
+    - {fileID: 21300000, guid: bee660a4b235d4d67a25bf931774ebb2, type: 3}
+    - {fileID: 21300000, guid: 3b717598c1b644d47946a5ba0605cde0, type: 3}
+    - {fileID: 21300000, guid: 32e4162cdacc34877853f8fee9a0522d, type: 3}
+    - {fileID: 21300000, guid: 320c1502f53f9426a90297d4aca53598, type: 3}
+    - {fileID: 21300000, guid: 8b14829e8d967447db834ee48792452d, type: 3}
+    - {fileID: 21300000, guid: a273defd3bcbd49f893ed91d189ca1e8, type: 3}
+    - {fileID: 21300000, guid: 75d74c4831f6047328cbe3d41ec73fde, type: 3}
+    - {fileID: 21300000, guid: ec681c14320604b48b63f4825e04ebab, type: 3}
+    - {fileID: 21300000, guid: 3251174444f1b4a8c996e6dd841cd540, type: 3}
+    - {fileID: 21300000, guid: de62775de6ff343f0a3cfcd541499a78, type: 3}
+    - {fileID: 21300000, guid: 09dbf65a2051744978564e531eb1e85a, type: 3}
+    - {fileID: 21300000, guid: 91e6d1d88b8d945ce8358ffa714a2fd3, type: 3}
+    - {fileID: 21300000, guid: 3bda46a1cf2c84142a70d677d2ac009c, type: 3}
+    - {fileID: 21300000, guid: 5ab74fe5dc03c4de7a9ead0a3379fad8, type: 3}
+    - {fileID: 21300000, guid: 87263a6d3b1824aeea66ce79d9dc6302, type: 3}
+    - {fileID: 21300000, guid: 7c7fa66a200824c97bbf43641834435e, type: 3}
+    - {fileID: 21300000, guid: eb27ddf3228a44356841967206e4b857, type: 3}
+    - {fileID: 21300000, guid: a6de2f5012cfe463eafac8a9d979af3f, type: 3}
+    - {fileID: 21300000, guid: 848d20ac706b44df08992b6ce0077b04, type: 3}
+    - {fileID: 21300000, guid: 941bb7ceff63b45a1b3e673be4a5c129, type: 3}
+    - {fileID: 21300000, guid: e1d030ab97dbf4e26b6b10f44d7f9366, type: 3}
+    duration: 1
+    delay: 0
+  sprite: {fileID: 21300000, guid: 17ba981fd946e402f89fe0b79b895392, type: 3}
+  rule:
+    reward:
+    - 0
+    - 20
+    - 50
+    - 100
+    - 150
+    substitutesForWild: 1

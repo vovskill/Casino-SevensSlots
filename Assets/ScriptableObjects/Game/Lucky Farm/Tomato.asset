@@ -1,0 +1,56 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 97841064e27c442f3b45f0e2079b716c, type: 3}
+  m_Name: Tomato
+  m_EditorClassIdentifier: 
+  type: 7
+  particle: {fileID: 1978309707650864, guid: 366852ff4f0144fd1990126d21e0b77e, type: 2}
+  animationData:
+    frames:
+    - {fileID: 21300000, guid: e69f3c7d73d6c4ff88c59b26e08d5450, type: 3}
+    - {fileID: 21300000, guid: fc5fb66532ee14924a75ad43c20d4c84, type: 3}
+    - {fileID: 21300000, guid: 7e32a358ab005414ba294117ed7c068d, type: 3}
+    - {fileID: 21300000, guid: 40e280cdc03654924981bf62ccb1729d, type: 3}
+    - {fileID: 21300000, guid: 6f2257c36900647a2a8fcecabd4f872b, type: 3}
+    - {fileID: 21300000, guid: 18020f545927040df96794f92dcbb7fc, type: 3}
+    - {fileID: 21300000, guid: f8557086fb5a94cd9b281897a4e31a03, type: 3}
+    - {fileID: 21300000, guid: 05b4a7b912c7a436eb8addb2d23f45df, type: 3}
+    - {fileID: 21300000, guid: 52ecf663862154c0f956e1b160cde3c1, type: 3}
+    - {fileID: 21300000, guid: 8781dda66f1b14a5489a8659784ff4a0, type: 3}
+    - {fileID: 21300000, guid: 26899b711d4eb437d8f767fdd777d839, type: 3}
+    - {fileID: 21300000, guid: ce11a5e1c2a9e4885a8ae586ba35264c, type: 3}
+    - {fileID: 21300000, guid: 4bdd699b9b76844c2ba31451290b986e, type: 3}
+    - {fileID: 21300000, guid: 093058faa0e2d48f5b84f22266d49851, type: 3}
+    - {fileID: 21300000, guid: 1af868c205dc640db94e2d0f9229a060, type: 3}
+    - {fileID: 21300000, guid: 290b80e56479b4e7a8bea7123df3eadc, type: 3}
+    - {fileID: 21300000, guid: 97fda9f27483b446a97103a89dc67d5d, type: 3}
+    - {fileID: 21300000, guid: a66646788953d46bf8810dd6a37c5a2b, type: 3}
+    - {fileID: 21300000, guid: b29118b46231d418eb385c83f0ed6a38, type: 3}
+    - {fileID: 21300000, guid: 2ad02f4a4d2d84e3f88831a2835aae2b, type: 3}
+    - {fileID: 21300000, guid: 1448b3ddc8d4245e0a521e8ea275e536, type: 3}
+    - {fileID: 21300000, guid: b3a8c41e388f2430fab7c794835cbadc, type: 3}
+    - {fileID: 21300000, guid: fe6dc2db8810c4b8bb060305c763e634, type: 3}
+    - {fileID: 21300000, guid: 46b382103c229432ab43491061c14fd4, type: 3}
+    - {fileID: 21300000, guid: 6d49f3c3a06a04e78820f4b397448aa3, type: 3}
+    - {fileID: 21300000, guid: 947106b66150349088770602192b3649, type: 3}
+    - {fileID: 21300000, guid: 3a6741df48a16489b8588f7130e346f2, type: 3}
+    - {fileID: 21300000, guid: 38d71043e820e4dd98c60f9d058b215c, type: 3}
+    duration: 1
+    delay: 0
+  sprite: {fileID: 21300000, guid: 58c49ac2d49af4a3d88b6cb88313987f, type: 3}
+  rule:
+    reward:
+    - 0
+    - 0
+    - 15
+    - 100
+    - 250
+    substitutesForWild: 1

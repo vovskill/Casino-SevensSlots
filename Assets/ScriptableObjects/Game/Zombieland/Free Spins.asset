@@ -1,0 +1,65 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 97841064e27c442f3b45f0e2079b716c, type: 3}
+  m_Name: Free Spins
+  m_EditorClassIdentifier: 
+  type: 13
+  particle: {fileID: 1517011525396110, guid: 35940221869104f7cbce5d6a7ef53209, type: 2}
+  animationData:
+    frames:
+    - {fileID: 21300000, guid: 1a1f224a01acc46cb930f74c48d16660, type: 3}
+    - {fileID: 21300000, guid: 4fd549317b952469f887da4eb4eb515d, type: 3}
+    - {fileID: 21300000, guid: dcee66823c9a34f4dbf3622ecc91d10d, type: 3}
+    - {fileID: 21300000, guid: 1ecc16258dff4408bbabe0ee6b044ffd, type: 3}
+    - {fileID: 21300000, guid: 74327d298df734fd79eb57e227c93284, type: 3}
+    - {fileID: 21300000, guid: 6e95653919cf34d5794281d02666d1a2, type: 3}
+    - {fileID: 21300000, guid: c20ab8bfd266846a5815712a156bc37d, type: 3}
+    - {fileID: 21300000, guid: 969d3f5a2b7c946679c1cbc6286c4206, type: 3}
+    - {fileID: 21300000, guid: 373ca58b995274d93a4495100dee9ba1, type: 3}
+    - {fileID: 21300000, guid: 238886dcc18584a2b95a947aa3ed6a64, type: 3}
+    - {fileID: 21300000, guid: a9043062dfbeb4ad5b435e2e36f55b6e, type: 3}
+    - {fileID: 21300000, guid: 72c1d5df1c8ee488ea8254373330f614, type: 3}
+    - {fileID: 21300000, guid: a5329e93ed5f04fe09ecd2d284074dfb, type: 3}
+    - {fileID: 21300000, guid: 9e025fcf2181647638815ca80f30527f, type: 3}
+    - {fileID: 21300000, guid: f61106d74885143b4b2679fb37ee31aa, type: 3}
+    - {fileID: 21300000, guid: 977f9556ec97f4ab782d893257491788, type: 3}
+    - {fileID: 21300000, guid: 996281b9b0cea46348405f5238fbb642, type: 3}
+    - {fileID: 21300000, guid: 8476f2e877312401281f45aa1a1f05cf, type: 3}
+    - {fileID: 21300000, guid: 5ae044697ddec4e31859906c5489edac, type: 3}
+    - {fileID: 21300000, guid: 395d4b8e0b3a64f1fad699fe5f4bd830, type: 3}
+    - {fileID: 21300000, guid: 59be9cb5ec4a64a0abb51d6a88ccdaa6, type: 3}
+    - {fileID: 21300000, guid: a93bd0b3e287149f4920a891f639779b, type: 3}
+    - {fileID: 21300000, guid: bb4cced851c1d4c2986027aa7bd3a232, type: 3}
+    - {fileID: 21300000, guid: 746ba929f787a46ad842c682a3e70162, type: 3}
+    - {fileID: 21300000, guid: 0302a9c529eb245e9ae5fee88d250c9a, type: 3}
+    - {fileID: 21300000, guid: 25378661e370e42cf9296f96d80bb6a1, type: 3}
+    - {fileID: 21300000, guid: 864055bf8c4464b9c914d9f4e17d88b3, type: 3}
+    - {fileID: 21300000, guid: 69203042cfa574005941137925653604, type: 3}
+    - {fileID: 21300000, guid: 1a312b9a690dd4da38013242d0bc330e, type: 3}
+    - {fileID: 21300000, guid: 7819cf72b51dc4b558e285900ba9f439, type: 3}
+    - {fileID: 21300000, guid: 9f155ef0a3c644518ace2ccaa20c0dd2, type: 3}
+    - {fileID: 21300000, guid: 42572ad49e16f4422854171775433ccc, type: 3}
+    - {fileID: 21300000, guid: d0f9881eb6f1c4356aecaa4f9c756275, type: 3}
+    - {fileID: 21300000, guid: a147a1b5a65694433a3ed1d9995cf9d8, type: 3}
+    - {fileID: 21300000, guid: 7057611d522ba4e07ab4e96ca04aed54, type: 3}
+    - {fileID: 21300000, guid: 17be510af7df74bdc99a434188b04cd4, type: 3}
+    - {fileID: 21300000, guid: 23b029b5d71be4144bbfb02113adad54, type: 3}
+    duration: 1
+    delay: 0
+  sprite: {fileID: 21300000, guid: da5b69cd5f9ab49cb9de27051192f3a3, type: 3}
+  rule:
+    reward:
+    - 0
+    - 0
+    - 50
+    - 100
+    - 150
+    substitutesForWild: 0

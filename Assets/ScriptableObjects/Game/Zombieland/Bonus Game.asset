@@ -1,0 +1,60 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 97841064e27c442f3b45f0e2079b716c, type: 3}
+  m_Name: Bonus Game
+  m_EditorClassIdentifier: 
+  type: 2
+  particle: {fileID: 1517011525396110, guid: 35940221869104f7cbce5d6a7ef53209, type: 2}
+  animationData:
+    frames:
+    - {fileID: 21300000, guid: e296afb5ae75e4c9c94a52c88ba0d071, type: 3}
+    - {fileID: 21300000, guid: 5fc81a75ad1ca470a9f2e3a6f09e32bd, type: 3}
+    - {fileID: 21300000, guid: fe1711781a3494c87989caf05defd29a, type: 3}
+    - {fileID: 21300000, guid: 485ea84fd4e084b4c9d7c4c46d02beae, type: 3}
+    - {fileID: 21300000, guid: 5b570e41350624794b3425108e8ff510, type: 3}
+    - {fileID: 21300000, guid: 6d6e82595b3d842378f0cf92a8bba7b9, type: 3}
+    - {fileID: 21300000, guid: 1a7b0446b2052486fb603cd1796b77fb, type: 3}
+    - {fileID: 21300000, guid: 63aa6306ad37f42c8b1b33494a371af8, type: 3}
+    - {fileID: 21300000, guid: 697411f7c53c14568a046b2cf83db4ec, type: 3}
+    - {fileID: 21300000, guid: c4b3085f22b884b049b12feadc2e0030, type: 3}
+    - {fileID: 21300000, guid: f906a2ed500b245dc851d7ef12930084, type: 3}
+    - {fileID: 21300000, guid: 1a8d16d6497a4420186675379ba6fceb, type: 3}
+    - {fileID: 21300000, guid: abb6b38627c3d4a128537818c5fbf01d, type: 3}
+    - {fileID: 21300000, guid: e697cc61f56844f33a0cedf1ffd09338, type: 3}
+    - {fileID: 21300000, guid: 247aac50e97cb4a68bb24a60080c2e90, type: 3}
+    - {fileID: 21300000, guid: dd916b639ce68477994648ef9fbb91f6, type: 3}
+    - {fileID: 21300000, guid: dc2992738ee214e1fb167b372d31a22e, type: 3}
+    - {fileID: 21300000, guid: 9baba5ab1a857400b9ccbfcf807e6350, type: 3}
+    - {fileID: 21300000, guid: 4bb9a56a933b443038a51a60176a9cd8, type: 3}
+    - {fileID: 21300000, guid: 6e091969fe509453592e63a52bfd4ac6, type: 3}
+    - {fileID: 21300000, guid: 5082d90d3d85a44339df85e288de0d66, type: 3}
+    - {fileID: 21300000, guid: c5b84e63e78854fb5aa392915f63db5f, type: 3}
+    - {fileID: 21300000, guid: 912ea2ccc91144a98be078f19701818c, type: 3}
+    - {fileID: 21300000, guid: a387d52b97eaa4cc2b1dd91eaaf0b6cb, type: 3}
+    - {fileID: 21300000, guid: 8c9b9545ed1404e8caea3923d418f29b, type: 3}
+    - {fileID: 21300000, guid: 38a96311cb3634911a450a12fca5d004, type: 3}
+    - {fileID: 21300000, guid: 9e25721cf51a942bd98e86201cf930c4, type: 3}
+    - {fileID: 21300000, guid: 6905c39e3ad0f4bff83e5da1e45946ac, type: 3}
+    - {fileID: 21300000, guid: 65cd0047f22c84951888c717344e2e85, type: 3}
+    - {fileID: 21300000, guid: 685c8b0a6b05c4c9eb7e7b476c89f68e, type: 3}
+    - {fileID: 21300000, guid: 7a7dffe54b0664755968de538d968b03, type: 3}
+    - {fileID: 21300000, guid: 07146beebca0246bb88b91bf487a591a, type: 3}
+    duration: 1
+    delay: 0
+  sprite: {fileID: 21300000, guid: 0ac9b6a08dc6f4b14a41e42bfa6b7a80, type: 3}
+  rule:
+    reward:
+    - 0
+    - 0
+    - 50
+    - 100
+    - 150
+    substitutesForWild: 0

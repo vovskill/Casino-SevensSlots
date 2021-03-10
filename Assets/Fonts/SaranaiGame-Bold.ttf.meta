@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: 3cccda11e3082421cba6f3668bd628f2
+timeCreated: 1523092440
+licenseType: Free
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: SaranaiGame
+  fontNames:
+  - 536172616e616947616d65
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

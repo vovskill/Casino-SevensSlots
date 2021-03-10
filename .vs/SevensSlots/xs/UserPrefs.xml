@@ -1,0 +1,49 @@
+﻿<Properties StartupConfiguration="{047E82CA-5099-0227-E212-5F37F255D4F2}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/Other/CSGlowAnimation.cs">
+    <Files>
+      <File FileName="Assets/Scripts/SevenSlots/CSCSSymbol.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/LuckFarm/CSLFInfo.cs" />
+      <File FileName="Assets/Scripts/Game/CSReel.cs" />
+      <File FileName="Assets/Scripts/Game/CSReels.cs" Line="5" Column="27" />
+      <File FileName="Assets/Scripts/Game/CSFindMatchManager.cs" />
+      <File FileName="Assets/Scripts/Game/CSSymbol.cs" />
+      <File FileName="Assets/Scripts/Game/CSSymbolData.cs" />
+      <File FileName="Assets/Scripts/Game/CSGameSettings.cs" />
+      <File FileName="Assets/Scripts/Game/CSGameManager.cs" Line="20" Column="15" />
+      <File FileName="Assets/Scripts/Other/HorizontalScrollSnap.cs" Line="8" Column="1" />
+      <File FileName="Assets/Scripts/Other/ScrollSnap.cs" Line="25" Column="10" />
+      <File FileName="Assets/Scripts/Other/ScrollSnapBase.cs" Line="8" Column="6" />
+      <File FileName="Assets/GoogleMobileAds/Platforms/iOS/RewardedAdClient.cs" Line="64" Column="45" />
+      <File FileName="Assets/Scripts/Other/CSGlowAnimation.cs" Line="16" Column="14" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="SevensSlots" expanded="True">
+            <Node name="Assets" expanded="True">
+              <Node name="GoogleMobileAds" expanded="True">
+                <Node name="Platforms" expanded="True">
+                  <Node name="iOS" expanded="True" />
+                </Node>
+              </Node>
+              <Node name="Scripts" expanded="True">
+                <Node name="Game" expanded="True" />
+                <Node name="Other" expanded="True">
+                  <Node name="CSGlowAnimation.cs" selected="True" />
+                </Node>
+                <Node name="SevenSlots" expanded="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="f3b094e2-9d1f-4554-9e31-334d43c78518" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
